@@ -16,7 +16,7 @@
     "lib"
   ],
   "dependencies": {
-    "geojson.lib": "^0.0.11"
+    "geojson.lib": "git+https://github.com/codingmaven/geojson.lib.git"
   },
   "devDependencies": {
     "grunt": "1.0.1",
